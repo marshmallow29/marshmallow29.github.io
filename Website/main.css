@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="index.html" />
+
 p{
 color:blue;	
 font-size:22px;
@@ -55,3 +57,32 @@ text-align: center;
 color: white;
 font-size:3em;
 }
+
+
+
+
+
+.wrap-trivia {
+height: 150px;
+width: 450px;
+border: 5px double grey;
+
+
+} 
+
+
+
+.wrap-list {
+width: 20%;
+border-radius: 10px;
+border: 5px dashed orange;
+padding: 10px;
+
+}
+
+
+
+.wrap-text {
+color: #000000;
+font-size: 2.1em;
+} 
